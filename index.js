@@ -6,7 +6,7 @@ score = 0;
 
 var userName = readlineSync.question("What's your name? ");
 
-console.log("Welcome " + userName  + " Do you know Varun");
+console.log("Welcome " + userName  + " Do you know Varun Jayarama");
 
 // Data of High score
 
